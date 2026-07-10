@@ -79,32 +79,32 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const projects = [
         {
-            title: 'Site acessível',
-            description: 'Um site sobre o Tropicália, desenvolvido pela Alura, para o curso de Acessibilidade na Web.',
+            title: 'Cartões Responsivo',
+            description: 'Um site sobre cartões responsivos, desenvolvido pelo GitHub',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://camillycaetano-ops.github.io/cartoesResponsivo/',
+            codeLink: 'https://github.com/camillycaetano-ops/cartoesResponsivo'
         },
         {
-            title: 'Site acessível',
-            description: 'Um site sobre o Tropicália, desenvolvido pela Alura, para o curso de Acessibilidade na Web.',
+            title: 'Jogo Predileto',
+            description: 'Um site sobre o seu jogo predileto, desenvolvido pelo GitHub.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://camillycaetano-ops.github.io/Jogo-Predileto/',
+            codeLink: 'https://github.com/camillycaetano-ops/cartoesResponsivo'
         },
         {
-            title: 'Site acessível',
-            description: 'Um site sobre o Tropicália, desenvolvido pela Alura, para o curso de Acessibilidade na Web.',
+            title: 'Flex-Box',
+            description: 'Um site sobre Flex-Box, dsenvolvido pelo GitHub.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://camillycaetano-ops.github.io/Flex-box/',
+            codeLink: 'https://github.com/camillycaetano-ops/Flex-box'
         },  
         {
-            title: 'Site do portfólio',
-            description: 'Esse site de portfólio, tendo o template sido desenvolvido por Sam Bispo, para as aulas de Back-end.',
+            title: 'cardsToggle',
+            description: 'Esse site é sobre cardsToggle, desenvolvido pelo GitHub.',
             technologies: ['HTML', 'CSS', 'JavaScript'],
-            liveLink: '#',
-            codeLink: '#'
+            liveLink: 'https://camillycaetano-ops.github.io/cardsToggle/',
+            codeLink: 'https://github.com/camillycaetano-ops/cardsToggle'
         }
     ];
 
